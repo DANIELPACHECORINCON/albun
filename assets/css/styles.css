@@ -1,0 +1,28 @@
+body{
+    background-color: #8af7f7;
+}
+table{
+    width: 100%;
+}
+.titulo{
+    color: #054b4b;
+    text-align: center;
+    font-size: 50px;
+}
+
+.image{
+    display: block;
+    margin: auto;
+}
+
+.image2{
+    display: block;
+    margin: auto;
+    width: 200px;
+    height: 120px;
+}
+
+.texto{
+    color: #054b4b;
+    text-align: center;
+}
